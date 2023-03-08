@@ -1,8 +1,8 @@
 # BlogClassification
 
-Simple neural network with keras to determine the age of a blogger using the (Blog Authorship Corpus)[https://u.cs.biu.ac.il/~koppel/BlogCorpus.htm] by J. Schler, M. Koppel, S. Argamon and J. Pennebaker (2006). It tries to discriminate between bloggers yonger than 20, between 20 and 30 and older than 30.
+Simple neural network with keras to determine the age of a blogger using the [Blog Authorship Corpus](https://u.cs.biu.ac.il/~koppel/BlogCorpus.htm) by J. Schler, M. Koppel, S. Argamon and J. Pennebaker (2006). It tries to discriminate between bloggers yonger than 20, between 20 and 30 and older than 30.
 
-The code is heavily inspired by (this)[https://keras.io/examples/nlp/text_classification_from_scratch/] article by Mark Omernick and Francois Chollet from 2019.
+The code is heavily inspired by [this](https://keras.io/examples/nlp/text_classification_from_scratch/) article by Mark Omernick and Francois Chollet from 2019.
 
 ## Run
 
